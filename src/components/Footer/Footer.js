@@ -29,7 +29,7 @@ const Footer = () => {
   return (
     <Container>
       <FooterInner>
-        <Typography>Copyright © {currentYear}, Yevhen Rudofylov</Typography>
+        <Typography>Copyright © {currentYear}, Serhii Avdieiev</Typography>
       </FooterInner>
     </Container>
   );
