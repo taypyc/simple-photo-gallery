@@ -14,7 +14,7 @@ You can familiarize yourself with the application online at the link: <https://p
 
 For this you need:
 
-1) clone the repository to your computer (by executing the command: git clone git@github.com:taypyc/simple-photo-gallery.git in the terminal);
-2) run the application using the npm run start command
+1) Clone the repository to your computer (by executing the command: <b>git clone git@github.com:taypyc/simple-photo-gallery.git</b> in the terminal);
+2) Run the application using the <b>npm run start</b> command
 
 The application will be available at: <http://localhost:3000/> in the browser.
